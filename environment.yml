@@ -1,0 +1,12 @@
+name: used-cars
+channels:
+ - defaults
+dependencies:
+ - python=3.6
+ - numpy
+ - pandas
+ - bokeh
+ - seaborn
+ - jupyter
+  
+
