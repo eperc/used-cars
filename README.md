@@ -1,4 +1,4 @@
-# Used cars analysis
+# Used cars database analysis
 
 This is a data science project using Python3, Numpy, Pandas,... to analyze a 370,000 lines CSV file of used cars data scraped from Ebay-Kleinanzeigen.
 
